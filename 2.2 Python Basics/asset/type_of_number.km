@@ -1,0 +1,54 @@
+{
+    "root": {
+        "data": {
+            "id": "bwfzdhahths0",
+            "created": 1566459006918,
+            "text": "Number"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "bwfzdsqfpy00",
+                    "created": 1566459031826,
+                    "text": "int"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwfzduvbns00",
+                    "created": 1566459036475,
+                    "text": "long"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwfzdw10wt40",
+                    "created": 1566459038996,
+                    "text": "float"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwfzdxl07u80",
+                    "created": 1566459042381,
+                    "text": "bool"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "bwfzdyqimcg0",
+                    "created": 1566459044891,
+                    "text": "complex"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
